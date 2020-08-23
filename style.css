@@ -1,0 +1,9 @@
+.Header_h1 {
+    color: red;
+    font-style: italic;
+    border: 10px solid darkred;
+    padding: 100px
+}
+.main_p {
+    font-weight: bold;
+}
